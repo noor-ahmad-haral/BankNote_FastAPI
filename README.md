@@ -71,7 +71,7 @@ Click the "Predict" button to submit the form and get the prediction whether the
 
 ## Author ✍️
 
-- [Noor Ahmad Haral](https://github.com/noorahmadharal)
+- [Noor Ahmad Haral](https://github.com/noor-ahmad-hara)
 
 ## License 📄
 
