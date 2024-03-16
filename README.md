@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/fastapi-banknote-prediction.git
+git clone https://github.com/noor-ahmad-haral/fastapi-banknote-prediction.git
 ```
 
 2. Navigate to the project directory:
@@ -71,7 +71,7 @@ Click the "Predict" button to submit the form and get the prediction whether the
 
 ## Author ✍️
 
-- [Noor Ahmad Haral](https://github.com/noorahmadharak)
+- [Noor Ahmad Haral](https://github.com/noorahmadharal)
 
 ## License 📄
 
